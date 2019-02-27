@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_LOG_LEVEL"
+            value="verbose" />
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="No Filters" />
+    </component>
+    <component name="BookmarkManager">
+        <bookmark
+            line="131"
+            url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment="Merge branch 'master' of https://github.com/Azizah22/BetterFlyRepository&#10;&#10;# Conflicts:&#10;#&#9;app/src/main/res/layout/activity_post_event.xml&#10;&#10;//adminHome page is done and approval almost done"
+            default="true"
+            id="581e4f8e-5989-4aeb-b88f-fc7dfc56ffc3">
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/java/com/example/betterfly/RequestToVounteer.java" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/res/layout/eventlist.xml" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/build.gradle"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/build.gradle" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/google-services.json"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/google-services.json" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+            <change
+                afterDir="false"
+                afterPath="$PROJECT_DIR$/app/src/main/java/com/example/betterfly/ApproveOrg.java"
+                beforeDir="false"
+                beforePath="$PROJECT_DIR$/app/src/main/java/com/example/betterfly/ApproveOrg.java" />
+            <change
+                beforeDir="f
+                beforePath="$PROJECT_DIR$/app/src/main/java/com/example/betterfly/MainActivity.java"
